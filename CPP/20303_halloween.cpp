@@ -10,8 +10,8 @@ vector<pair<int,int>> groups;
 int dp[30001][3000];
 
 void backpack(){
-    for(int i=1;i<K;i++){
-        for(int j=1;j<groups.size();j++){
+    for(int j=1;j<groups.size();j++){
+        for(int i=1;i<K;i++){
             if(groups[j].second>i) dp[j][i]=max(dp[j-1][i],dp[j][i-1]);                     //그룹의 사람수가 i보다 크면 dp태이블의 왼쪽과 위를 비교
             else dp[j][i]=max(dp[j-1][i], dp[j-1][i-groups[j].second] + groups[j].first);   //그룹의 사람수가 i랑 같거나 작으면 dp테이블의 위와 i-그룹의사람수 + 그룹의 사탕수
         }
