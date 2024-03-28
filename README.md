@@ -7,4 +7,6 @@
 |[1032](https://www.acmicpc.net/problem/1032)|[명령 프롬프트](/CPP/1032_cmd.cpp)|구현, 문자열|cpp|<span style="color:#cc8e34"> B1 </span>
 |[1043](https://www.acmicpc.net/problem/1043)|[거짓말](/CPP/1043_party.cpp)|자료구조, 그래프 이론, 그래프 탐색, 분리집합|cpp|<span style="color:gold"> G4 </span>
 |[1074](https://www.acmicpc.net/problem/1074)|[Z](/CPP/1074_z.cpp)|분할정복, 재귀|cpp| S1
+|[1107](https://www.acmicpc.net/problem/1107)|[리모컨](/CPP/1107_remocon.cpp)|브루드포스|cpp| <span style="color:gold"> G5 </span>
+|[4386](https://www.acmicpc.net/problem/4386)|[별자리 만들기](/CPP/4386_constellation.cpp)|그래프 이론, 최소 스패닝 트리|cpp|<span style="color:gold"> G3 </span>
 |[12100](https://www.acmicpc.net/problem/12100)|[2024(Easy)](/CPP/12100_Easy2024.cpp)|구현, 브루트포스, 시뮬레이션, 백트래킹|cpp|<span style="color:gold"> G2 </span>
