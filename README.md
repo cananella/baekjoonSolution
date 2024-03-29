@@ -10,4 +10,5 @@
 |[1107](https://www.acmicpc.net/problem/1107)|[리모컨](/CPP/1107_remocon.cpp)|브루드포스|cpp| <span style="color:gold"> G5 </span>
 |[4386](https://www.acmicpc.net/problem/4386)|[별자리 만들기](/CPP/4386_constellation.cpp)|그래프 이론, 최소 스패닝 트리|cpp|<span style="color:gold"> G3 </span>
 |[12100](https://www.acmicpc.net/problem/12100)|[2024(Easy)](/CPP/12100_Easy2024.cpp)|구현, 브루트포스, 시뮬레이션, 백트래킹|cpp|<span style="color:gold"> G2 </span>
+|[15686](https://www.acmicpc.net/problem/15686)|[치킨 배달](/CPP/15686_chickenDelivery.cpp)|구현, 브루트포스, 백트래킹|cpp|<span style="color:gold"> G5 </span>
 |[20303](https://www.acmicpc.net/problem/20303)|[할로윈의 양아치](/CPP/20303_halloween.cpp)|다이나믹 프로그래밍, 자료 구조, 그래프 이론, 그래프 탐색, 분리 집합, 배낭 문제|cpp|<span style="color:gold"> G3 </span>
