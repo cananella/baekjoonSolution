@@ -24,6 +24,7 @@
 |[2467](https://www.acmicpc.net/problem/2467)|[용액](/CPP/2467_liquid.cpp)|이분 탐색, 투 포인터|cpp|<span style="color:gold"> G5 </span>
 |[2562](https://www.acmicpc.net/problem/2562)|[최댓값](/RUST/2562_biggestNum.rs)|구현|rust| B3
 |[4386](https://www.acmicpc.net/problem/4386)|[별자리 만들기](/CPP/4386_constellation.cpp)|그래프 이론, 최소 스패닝 트리|cpp|<span style="color:gold"> G3 </span>
+|[9466](https://www.acmicpc.net/problem/9466)|[텀 프로젝트](/CPP/9466_termProject.cpp)|그래프 이론, 그래프 탐색, 깊이 우선 탐색|cpp|<span style="color:gold"> G3 </span>
 |[9465](https://www.acmicpc.net/problem/9465)|[스티커](/PYTHON/9465_sticker.py)|다이나믹 프로그래밍|python| S1
 |[11726](https://www.acmicpc.net/problem/11726)|[2xn 타일링](/RUST/11726_2nTile.rs)|다이나믹 프로그래밍|rust| S3
 |[12100](https://www.acmicpc.net/problem/12100)|[2024(Easy)](/CPP/12100_Easy2024.cpp)|구현, 브루트포스, 시뮬레이션, 백트래킹|cpp|<span style="color:gold"> G2 </span>
