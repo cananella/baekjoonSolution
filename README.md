@@ -10,10 +10,13 @@
 |[1107](https://www.acmicpc.net/problem/1107)|[리모컨](/CPP/1107_remocon.cpp)|브루드포스|cpp| <span style="color:gold"> G5 </span>
 |[1149](https://www.acmicpc.net/problem/1149)|[RGB거리](/CPP/1149_rgb.cpp)|다이나믹 프로그래밍|cpp| S1
 |[1167](https://www.acmicpc.net/problem/1167)|[트리의 지름](/CPP/1167_treeR.cpp)|그래프 이론, 그래프 탐색, 트리, 깊이우선 탐색|cpp| <span style="color:gold"> G2 </span>
+|[1546](https://www.acmicpc.net/problem/1546)|[평균](/RUST/1546_avg.rs)|수학, 사칙연산|rust| B1
 |[1766](https://www.acmicpc.net/problem/1766)|[문제집](/CPP/1766_quizSolv.cpp)|자료 구조, 그래프 이론, 우선순위 큐, 위상정렬, 방향 비순환 그래프|cpp| <span style="color:gold"> G2 </span>
 |[2162](https://www.acmicpc.net/problem/2162)|[선분 그룹](/CPP/2162_lineGroup.cpp)|자료 구조, 기하학, 분리 집합, 선분 교차 판정|cpp| <span style="color:#058743"> E5 </span>
 |[2239](https://www.acmicpc.net/problem/2239)|[스도쿠](/CPP/2239_sudoku.cpp)|구현, 백트랙킹|cpp|<span style="color:gold"> G4 </span>
 |[4386](https://www.acmicpc.net/problem/4386)|[별자리 만들기](/CPP/4386_constellation.cpp)|그래프 이론, 최소 스패닝 트리|cpp|<span style="color:gold"> G3 </span>
+|[9465](https://www.acmicpc.net/problem/9465)|[스티커](/PYTHON/9465_sticker.py)|다이나믹 프로그래밍|python| S1
+|[11726](https://www.acmicpc.net/problem/11726)|[2xn 타일링](/RUST/11726_2nTile.rs)|다이나믹 프로그래밍|rust| S3
 |[12100](https://www.acmicpc.net/problem/12100)|[2024(Easy)](/CPP/12100_Easy2024.cpp)|구현, 브루트포스, 시뮬레이션, 백트래킹|cpp|<span style="color:gold"> G2 </span>
 |[15686](https://www.acmicpc.net/problem/15686)|[치킨 배달](/CPP/15686_chickenDelivery.cpp)|구현, 브루트포스, 백트래킹|cpp|<span style="color:gold"> G5 </span>
 |[16946](https://www.acmicpc.net/problem/16946)|[벽 부수고 이동하기4](/CPP/16946_breakWall.cpp)|그래프 이론, 그래프 탐색, 너비우선 탐색, 깊이우선 탐색|cpp|<span style="color:gold"> G2 </span>
