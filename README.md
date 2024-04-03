@@ -21,6 +21,8 @@
 |[1766](https://www.acmicpc.net/problem/1766)|[문제집](/CPP/1766_quizSolv.cpp)|자료 구조, 그래프 이론, 우선순위 큐, 위상정렬, 방향 비순환 그래프|cpp| <span style="color:gold"> G2 </span>
 |[2162](https://www.acmicpc.net/problem/2162)|[선분 그룹](/CPP/2162_lineGroup.cpp)|자료 구조, 기하학, 분리 집합, 선분 교차 판정|cpp| <span style="color:#058743"> E5 </span>
 |[2239](https://www.acmicpc.net/problem/2239)|[스도쿠](/CPP/2239_sudoku.cpp)|구현, 백트랙킹|cpp|<span style="color:gold"> G4 </span>
+|[2467](https://www.acmicpc.net/problem/2467)|[용액](/CPP/2467_liquid.cpp)|이분 탐색, 투 포인터|cpp|<span style="color:gold"> G5 </span>
+|[2562](https://www.acmicpc.net/problem/2562)|[최댓값](/RUST/2562_biggestNum.rs)|구현|rust| B3
 |[4386](https://www.acmicpc.net/problem/4386)|[별자리 만들기](/CPP/4386_constellation.cpp)|그래프 이론, 최소 스패닝 트리|cpp|<span style="color:gold"> G3 </span>
 |[9465](https://www.acmicpc.net/problem/9465)|[스티커](/PYTHON/9465_sticker.py)|다이나믹 프로그래밍|python| S1
 |[11726](https://www.acmicpc.net/problem/11726)|[2xn 타일링](/RUST/11726_2nTile.rs)|다이나믹 프로그래밍|rust| S3
