@@ -23,6 +23,7 @@
 |[2239](https://www.acmicpc.net/problem/2239)|[스도쿠](/CPP/2239_sudoku.cpp)|구현, 백트랙킹|cpp|<span style="color:gold"> G4 </span>
 |[2467](https://www.acmicpc.net/problem/2467)|[용액](/CPP/2467_liquid.cpp)|이분 탐색, 투 포인터|cpp|<span style="color:gold"> G5 </span>
 |[2562](https://www.acmicpc.net/problem/2562)|[최댓값](/RUST/2562_biggestNum.rs)|구현|rust| B3
+|[2568](https://www.acmicpc.net/problem/2568)|[전깃줄-2](/CPP/2568_electricWire.cpp)|가장 긴 증가하는 부분 수열 (n logn)|cpp| <span style="color:#058743"> E5 </span>
 |[4386](https://www.acmicpc.net/problem/4386)|[별자리 만들기](/CPP/4386_constellation.cpp)|그래프 이론, 최소 스패닝 트리|cpp|<span style="color:gold"> G3 </span>
 |[9466](https://www.acmicpc.net/problem/9466)|[텀 프로젝트](/CPP/9466_termProject.cpp)|그래프 이론, 그래프 탐색, 깊이 우선 탐색|cpp|<span style="color:gold"> G3 </span>
 |[9465](https://www.acmicpc.net/problem/9465)|[스티커](/PYTHON/9465_sticker.py)|다이나믹 프로그래밍|python| S1
@@ -30,4 +31,6 @@
 |[12100](https://www.acmicpc.net/problem/12100)|[2024(Easy)](/CPP/12100_Easy2024.cpp)|구현, 브루트포스, 시뮬레이션, 백트래킹|cpp|<span style="color:gold"> G2 </span>
 |[15686](https://www.acmicpc.net/problem/15686)|[치킨 배달](/CPP/15686_chickenDelivery.cpp)|구현, 브루트포스, 백트래킹|cpp|<span style="color:gold"> G5 </span>
 |[16946](https://www.acmicpc.net/problem/16946)|[벽 부수고 이동하기4](/CPP/16946_breakWall.cpp)|그래프 이론, 그래프 탐색, 너비우선 탐색, 깊이우선 탐색|cpp|<span style="color:gold"> G2 </span>
+|[17143](https://www.acmicpc.net/problem/17143)|[낚시왕](/CPP/17143_fishingKing.cpp)|구현, 시뮬레이션|cpp|<span style="color:gold"> G1 </span>
+|[17144](https://www.acmicpc.net/problem/17144)|[미세먼지 안녕!](/CPP/17144_ac.cpp)|구현, 시뮬레이션|cpp|<span style="color:gold"> G4 </span>
 |[20303](https://www.acmicpc.net/problem/20303)|[할로윈의 양아치](/CPP/20303_halloween.cpp)|다이나믹 프로그래밍, 자료 구조, 그래프 이론, 그래프 탐색, 분리 집합, 배낭 문제|cpp|<span style="color:gold"> G3 </span>
