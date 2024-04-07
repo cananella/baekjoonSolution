@@ -25,7 +25,10 @@
 |[2467](https://www.acmicpc.net/problem/2467)|용액|이분 탐색, 투 포인터|[cpp](/CPP/2467_liquid.cpp)|<span style="color:gold"> G5 </span>
 |[2562](https://www.acmicpc.net/problem/2562)|최댓값|구현|[rust](/RUST/2562_biggestNum.rs)| B3
 |[2568](https://www.acmicpc.net/problem/2568)|전깃줄-2|가장 긴 증가하는 부분 수열 (n logn)|[cpp](/CPP/2568_electricWire.cpp)| <span style="color:#058743"> E5 </span>
+|[2623](https://www.acmicpc.net/problem/2623)|음악프로그램|그래프 이론, 위상 정렬, 방향 비순환 그래프|[cpp](/CPP/2623_musicProg.cpp)|<span style="color:gold"> G3 </span>
 |[4386](https://www.acmicpc.net/problem/4386)|별자리 만들기|그래프 이론, 최소 스패닝 트리|[cpp](/CPP/4386_constellation.cpp)|<span style="color:gold"> G3 </span>
+|[9251](https://www.acmicpc.net/problem/9451)|LCS|다이나믹 프로그래밍, 문자열|[cpp](/CPP/9251)|<span style="color:gold"> G5 </span>
+|[9252](https://www.acmicpc.net/problem/9452)|LCS2|다이나믹 프로그래밍|[rust](/RUST/9252_LCS2.rs)|<span style="color:gold"> G4 </span>
 |[9466](https://www.acmicpc.net/problem/9466)|텀 프로젝트|그래프 이론, 그래프 탐색, 깊이 우선 탐색|[cpp](/CPP/9466_termProject.cpp)|<span style="color:gold"> G3 </span>
 |[9465](https://www.acmicpc.net/problem/9465)|스티커|다이나믹 프로그래밍|[python](/PYTHON/9465_sticker.py)| S1
 |[11726](https://www.acmicpc.net/problem/11726)|2xn 타일링|다이나믹 프로그래밍|[rust](/RUST/11726_2nTile.rs)| S3
