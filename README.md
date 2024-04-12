@@ -21,6 +21,7 @@
 |[1766](https://www.acmicpc.net/problem/1766)|문제집|자료 구조, 그래프 이론, 우선순위 큐, 위상정렬, 방향 비순환 그래프|[cpp](/CPP/1766_quizSolv.cpp)| <span style="color:gold"> G2 </span>
 |[1957](https://www.acmicpc.net/problem/1957)|트리의 지름|그래프 이론, 그래프 탐색, 트리, 깊이 우선 탐색|[python](/PYTHON/1967_dirTree.py)|<span style="color:gold"> G4 </span>
 |[2162](https://www.acmicpc.net/problem/2162)|선분 그룹|자료 구조, 기하학, 분리 집합, 선분 교차 판정|[cpp](/CPP/2162_lineGroup.cpp)| <span style="color:#058743"> E5 </span>
+|[2166](https://www.acmicpc.net/problem/2166)|다각형의 면적|기하학, 다각형의 넓이|[cpp](/CPP/2166_polySize.cpp)|<span style="color:gold"> G5 </span>
 |[2239](https://www.acmicpc.net/problem/2239)|스도쿠|구현, 백트랙킹|[cpp](/CPP/2239_sudoku.cpp)|<span style="color:gold"> G4 </span>
 |[2467](https://www.acmicpc.net/problem/2467)|용액|이분 탐색, 투 포인터|[cpp](/CPP/2467_liquid.cpp)|<span style="color:gold"> G5 </span>
 |[2562](https://www.acmicpc.net/problem/2562)|최댓값|구현|[rust](/RUST/2562_biggestNum.rs)| B3
