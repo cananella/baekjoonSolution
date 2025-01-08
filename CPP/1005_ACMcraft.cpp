@@ -8,7 +8,7 @@ int N,K;
 int endNode;
 
 int dp[1001];
-int time[1001];
+int _time[1001];
 int cnt[1001];
 vector<int> edge[1001];
 
@@ -19,7 +19,7 @@ void Craft(){
     for(int root=1;root<=N;root++){
         if(cnt[root]==0) {
             q.push(root);
-            dp[root]=time[root];
+            dp[root]=_time[root];
         }
     }
     for(int i=0;i<N;i++){
@@ -28,7 +28,7 @@ void Craft(){
         for(auto& elem:edge[nowNode]){
             int nextNode=elem;
             cnt[nextNode]--;
-            dp[nextNode]=max(dp[nextNode],dp[nowNode]+time[nextNode]);
+            dp[nextNode]=max(dp[nextNode],dp[nowNode]+_time[nextNode]);
             if(cnt[nextNode]==0)q.push(nextNode);
         }
     }
@@ -45,7 +45,7 @@ int main(){
             edge[i].clear();
         }
         for(int i=1;i<=N;i++){
-            cin>>time[i];
+            cin>>_time[i];
         }
         for(int i=0;i<K;i++){
             int st,ed;
