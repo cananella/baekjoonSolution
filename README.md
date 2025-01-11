@@ -39,6 +39,7 @@
 |[11726](https://www.acmicpc.net/problem/11726)|2xn 타일링|다이나믹 프로그래밍|[rust](/RUST/11726_2nTile.rs)| S3
 |[12100](https://www.acmicpc.net/problem/12100)|2024(Easy)|구현, 브루트포스, 시뮬레이션, 백트래킹|[cpp](/CPP/12100_Easy2024.cpp)|<span style="color:gold"> G2 </span>
 |[15686](https://www.acmicpc.net/problem/15686)|치킨 배달|구현, 브루트포스, 백트래킹|[cpp](/CPP/15686_chickenDelivery.cpp)|<span style="color:gold"> G5 </span>
+|[15961](https://www.acmicpc.net/problem/15961)|회전초밥|슬라이딩 윈도우|[cpp](/CPP/15961_sushi.cpp)|<span style="color:gold"> G4 </span>
 |[16946](https://www.acmicpc.net/problem/16946)|벽 부수고 이동하기4|그래프 이론, 그래프 탐색, 너비우선 탐색, 깊이우선 탐색|[cpp](/CPP/16946_breakWall.cpp)|<span style="color:gold"> G2 </span>
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|구현, 시뮬레이션|[cpp](/CPP/17143_fishingKing.cpp)|<span style="color:gold"> G1 </span>
 |[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|구현, 시뮬레이션|[cpp](/CPP/17144_ac.cpp)|<span style="color:gold"> G4 </span>
