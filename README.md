@@ -33,6 +33,7 @@
 |[9252](https://www.acmicpc.net/problem/9452)|LCS2|다이나믹 프로그래밍|[rust](/RUST/9252_LCS2.rs)|<span style="color:gold"> G4 </span>
 |[9466](https://www.acmicpc.net/problem/9466)|텀 프로젝트|그래프 이론, 그래프 탐색, 깊이 우선 탐색|[cpp](/CPP/9466_termProject.cpp)|<span style="color:gold"> G3 </span>
 |[9465](https://www.acmicpc.net/problem/9465)|스티커|다이나믹 프로그래밍|[python](/PYTHON/9465_sticker.py)| S1
+|[10775](https://www.acmicpc.net/problem/10775)|공항|분리 집합|[cpp](/CPP/10775_airport.cpp)| G2
 |[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|다이나믹 프로그레밍|[cpp](/CPP/11053_lis.cpp)| S2
 |[11660](https://www.acmicpc.net/problem/11660)|구간 합 구하기|다이나믹 프로그레밍, 누적합|[cpp](/CPP/11660_boundSum.cpp)| S1
 |[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|그래프 이론, 그래프 탐색, 트리, 너비 우선 탐색, 깊이 우선 탐색|[rust](/RUST/11725_treeP.rs)| S2
