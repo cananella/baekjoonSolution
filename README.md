@@ -43,6 +43,7 @@
 |[15686](https://www.acmicpc.net/problem/15686)|치킨 배달|구현, 브루트포스, 백트래킹|[cpp](/CPP/15686_chickenDelivery.cpp)|<span style="color:gold"> G5 </span>
 |[15961](https://www.acmicpc.net/problem/15961)|회전초밥|슬라이딩 윈도우|[cpp](/CPP/15961_sushi.cpp)|<span style="color:gold"> G4 </span>
 |[16946](https://www.acmicpc.net/problem/16946)|벽 부수고 이동하기4|그래프 이론, 그래프 탐색, 너비우선 탐색, 깊이우선 탐색|[cpp](/CPP/16946_breakWall.cpp)|<span style="color:gold"> G2 </span>
+|[17070](https://www.acmicpc.net/problem/17070)|파이프 옮기기 1|다이나믹 프로그래밍, 그래프 이론, 그래프 탐색|[cpp](/CPP/17070_moving_pipe.cpp)|<span style="color:gold"> G5 </span>
 |[17143](https://www.acmicpc.net/problem/17143)|낚시왕|구현, 시뮬레이션|[cpp](/CPP/17143_fishingKing.cpp)|<span style="color:gold"> G1 </span>
 |[17144](https://www.acmicpc.net/problem/17144)|미세먼지 안녕!|구현, 시뮬레이션|[cpp](/CPP/17144_ac.cpp)|<span style="color:gold"> G4 </span>
 |[20303](https://www.acmicpc.net/problem/20303)|할로윈의 양아치|다이나믹 프로그래밍, 자료 구조, 그래프 이론, 그래프 탐색, 분리 집합, 배낭 문제|[cpp](/CPP/20303_halloween.cpp)|<span style="color:gold"> G3 </span>
